@@ -16,7 +16,7 @@ Proyek ini hanya membutuhkan browser web untuk dapat digunakan. Tidak ada perang
 
 1. Kloning repositori ini:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/raesone1/Web-Link-Sosial-Media.git
    ```
 2. Masuk ke folder proyek:
    ```bash
